@@ -40,10 +40,10 @@ Tres problemas comunes son:
 ### a) Indicar para cada problemas quienes podrian ser los Stakeholders, los puntos de vista y las fuentes de informacion
 1. 
 - Stakeholders:
-Estudiantes de Ingenieria I, Oficina de alumnos, Jefe de Trabajos Practicos, Profesor a cargo, Facultad de informatica.
 Puntos de vista: Estudiantes, Jefe de Trabajos Practicos, Profesor a cargo = interactuador. 
 
 - Puntos de vista:
+Estudiantes de Ingenieria I, JTP,Profesor a cargo = interactuadores 
 Oficina de alumnos = punto de vista indirecto. 
 'Solo se utilizara en el ambito de la facultad de informatica','devera adecuarse a la reglamentacion sobre privacidad de los datos den el ambito de la misma' = de dominio.
 
@@ -88,7 +88,6 @@ Se puede obtener informacion mas personal, como opiniones, sentimientos y objeti
 
 ### 3. Enumere y describa que brevemente que tipos de preguntas puede contener una entrevista. Detalle ventajas y desventajas de cada una.
 
-
 Preguntas abiertas:
     Preguntas que permite al encuestado responder de cualquier manera.
     Las ventajas son que revelan nueva linea de preguntas, hacen mas interesante la entrevista, premiten la espontaneidad. Las desventajas son que puede dar demasiados detalles irrelecantes, se puede perder el control de la entrevista y parece que el entrevistador no tiene los objetivos claros.
@@ -104,12 +103,15 @@ Embudo: Preguntas abiertas - Preguntas cerradas
 Diamante: Preguntas cerradas - Preguntas abiertas - Pregutnas cerradas
 
 ### 5. Analice un formato de plantilla adecuando al momento de armar una entrevista.
-
+Analizado
 ### 6. Analice un formato de plantilla adecuado al momento de terminar una entrevista.
-
+Analizado
 ### Situaciones. Redactar las preguntas de una manera mas apropiada, indique poruqe le parece inadecuada cada una de ellas.
 ### a) Sus subordinados me dijieron que la empresa no anda bien. Es cierto?
+
 ### b) Soy nuevo en esto. Que he dejado afuera?
+
 ### c) Estaria usted de acierdo con los demas genrentes de ventas, respecto a que computarizar las ventas mensuales y luego relaizar un analisis de la tendencia tendria usted grandes mejoras?
+
 ### d) No habra una mejor manera de hacer proyecciones de sus ventas, que ese procedimiento anticuado que usted utiliza?
 
